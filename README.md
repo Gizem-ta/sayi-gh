@@ -1,0 +1,2 @@
+# sayi-gh
+sayi hesabi
